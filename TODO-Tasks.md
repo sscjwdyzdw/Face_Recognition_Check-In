@@ -1,9 +1,11 @@
-# TODO-Tasks
+# Face_Recognition_Check-In
+---
+### TODO-List
 
 | Name         | CurrentTask         | DeadLine | Status |
 | ------------ | ------------------- | -------- | ------ |
-| ZhangZhenwei | Project application | Oct 10   |        |
-|              |                     |          |        |
+| dwqian       | Project application | Oct 10th | Done   |
+| dwqian       | Purchasing          | Oct 31th |        |
 |              |                     |          |        |
 |              |                     |          |        |
 |              |                     |          |        |
